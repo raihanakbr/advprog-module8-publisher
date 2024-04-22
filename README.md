@@ -13,3 +13,7 @@ It means both subscriber and publisher are connecting to the same server.
 - Subscriber Terminal
 ![Subscriber](https://media.discordapp.net/attachments/874575252808667149/1231994315023061044/image.png?ex=6638fb1e&is=6626861e&hm=72f2d443903487e5f7ee79be24783ca01c844dd78e3c74336c6fdedfe01654a8&=&format=webp&quality=lossless&width=1440&height=106)
 It can be seen from the image that there are 5 incoming messages that are caught by the subscribers from the publisher.
+
+- Chart
+![Spike](https://cdn.discordapp.com/attachments/874575252808667149/1231995836880130049/image.png?ex=6638fc88&is=66268788&hm=4760966c96023a242d4f6a244b43e655544de57e82e703eecd9e1345173fd32f&)
+The spikes in the second chart refer to the number of messages that were sent from the publisher.
